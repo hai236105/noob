@@ -1,3 +1,3 @@
 # noob
-do sthing or die
+do sthing or die /n
 find files in BRANCHES
